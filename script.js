@@ -1,4 +1,4 @@
-function letterCombinations(digits) {
+function letterCombinations(input_digit) {
    //Complete the function
   if (!input_digit) return []; 
   let map = {
